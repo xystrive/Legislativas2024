@@ -18,11 +18,11 @@ O Primeiro-Ministro é escolhido pelo Presidente da República após serem reali
 
 ## Distribuição de deputados
 
-Nestas legislações de 2024 são eleitos 230 deputados. Quando um eleitor exerce o seu voto sobre um partido político, este voto conta para a possível eleição de um deputado do partido para o distrito deste mesmo eleitor.
+Nestas legislações de 2024 são eleitos 230 deputados. Quando um eleitor exerce o seu voto sobre um partido político, este voto conta para a possível eleição de um deputado do partido para o círculo eleitoral deste mesmo eleitor.
 
-Na seguinte tabela em baixo está a definido quantos deputados cada respetivo distrito elege:
+Na seguinte tabela em baixo está a definido quantos deputados cada respetivo círculo eleitoral elege:
 
-| Distrito                            | Número de deputados |
+| Círculo Eleitoral                   | Número de deputados |
 | ----------------------------------- | ------------------- |
 | Lisboa                              | 48                  |
 | Porto                               | 40                  |
@@ -37,7 +37,12 @@ Na seguinte tabela em baixo está a definido quantos deputados cada respetivo di
 | Beja, Évora e Guarda                | 3                   |
 | Portalegre, Europa e Fora da Europa | 2                   |
 
-### Partidos Políticos
+### Boletins de voto
+---
+No seguinte link estão exemplos de boletins de voto para os diferentes círculos eleitorais:
+- https://www.cne.pt/sites/default/files/dl/eleicoes/2024_ar/docs_geral/2024_ar_boletins_de_voto.pdf
+
+### Programas Eleitorais
 ---
 Na seguinte table em baixo estão definidos cada partido e os seus respetivos programas eleitorais.
 
@@ -62,6 +67,7 @@ Na seguinte table em baixo estão definidos cada partido e os seus respetivos pr
 | Juntos pelo Povo                                | JPP                  | ![jpp.png](Símbolos/jpp.png)                                                                               | Não       | N/A                                                                                                                                                              |
 | Partido Trabalhista Português                   | PTP                  | ![ptp.png](Símbolos/ptp.png)                                                                               | Não       | N/A                                                                                                                                                              |
 | Movimento Alternativa Socialista                | MAS                  | ![mas.png](Símbolos/mas.png)                                                                               | Não       | [Apela ao voto no B.E](https://mas.org.pt/index.php/2024/03/01/o-mas-apela-ao-voto-no-bloco-de-esquerda/)                                                        |
+
 
 Fontes de informação:
 
