@@ -1,3 +1,5 @@
+### ⚠️ Aviso
+
 **Este documento tem como propósito compilar informação relevante para as eleições legislativas em Portugal de 2024 e apresentá-la de forma a que sirva como auxílio informativo.**
 
 ***Nenhuma desta informação tem como objetivo servir como propaganda para algum partido ou partidos políticos ou influenciar de forma intencional o voto.***
