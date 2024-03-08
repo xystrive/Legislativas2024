@@ -64,9 +64,14 @@ Na seguinte table em baixo estão definidos cada partido e os seus respetivos pr
 | Movimento Alternativa Socialista                | MAS                  | ![mas.png](Símbolos/mas.png)                                                                               | Não       | [Apela ao voto no B.E](https://mas.org.pt/index.php/2024/03/01/o-mas-apela-ao-voto-no-bloco-de-esquerda/)                                                        |
 
 Fontes de informação:
+
 https://www.cne.pt/
+
 https://www.parlamento.pt
+
 https://diariodarepublica.pt/
+
 https://pt.wikipedia.org/wiki/Eleições_legislativas_portuguesas_de_2024
+
 https://pt.wikipedia.org/wiki/Assembleia_da_República
 
